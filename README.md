@@ -4,7 +4,7 @@ Proyecto simple que integra conceptos de JSP
 basic_jsp_project es una aplicación web simple que permite capturar hasta 4 valores correspondientes a los lados de una figura geométrica. La aplicación determina automáticamente el tipo de figura y calcula sus propiedades geométricas correspondientes. Las figuras soportadas son: Círculo, Cuadrado, Rectángulo y Triángulo.
 
 ## Estructura del Proyecto
-
+```
 basic_jsp_project/
 ├── WEB-INF/
 │ └── web.xml
@@ -13,7 +13,7 @@ basic_jsp_project/
 ├── index.html
 ├── result.jsp
 └── calculate.jsp
-
+```
 
 ## Descripción de los Archivos
 
